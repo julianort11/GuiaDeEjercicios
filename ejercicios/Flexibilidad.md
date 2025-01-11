@@ -15,3 +15,8 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 3. Incluye estiramientos para todas las partes del cuerpo: cuello, espalda, piernas, hombros y brazos.
 4. Respira profundamente mientras estiras para aumentar la relajación.
 5. Termina con una breve respiración profunda y relajación.
+
+## Consejos
+- No rebotes mientras estiras, mantén una postura estática y controlada.
+- Estira siempre de forma gradual, sin forzar el cuerpo más allá de su límite.
+- Practica estiramientos tanto en la mañana como al final del día para mejorar la flexibilidad general.
