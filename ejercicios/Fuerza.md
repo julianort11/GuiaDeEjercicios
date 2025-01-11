@@ -14,3 +14,8 @@ Los ejercicios de fuerza se centran en el uso de la resistencia (como pesas, ban
 3. Incluye ejercicios básicos como sentadillas, flexiones, press de banca, y peso muerto.
 4. Asegúrate de descansar 1-2 minutos entre series.
 5. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+- Mantén una buena forma durante los ejercicios para evitar lesiones.
+- Aumenta progresivamente el peso conforme vayas mejorando.
+- Escoge ejercicios compuestos que trabajen varios grupos musculares a la vez.
