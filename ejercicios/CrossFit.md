@@ -14,3 +14,8 @@ El CrossFit es un programa de entrenamiento que combina ejercicios de levantamie
 2. Realiza un "WOD" (Workout of the Day), que puede incluir ejercicios como burpees, sentadillas con pesas, sprints, levantamientos de pesas y kettlebells.
 3. El WOD suele durar entre 15-30 minutos, dependiendo de la intensidad y los ejercicios seleccionados.
 4. Termina con un enfriamiento y estiramientos para reducir la tensión muscular.
+
+## Consejos
+- Realiza movimientos con una técnica adecuada para evitar lesiones.
+- Varía los entrenamientos para mantener la motivación y trabajar diferentes grupos musculares.
+- Aumenta la intensidad progresivamente a medida que tu condición física mejora.
