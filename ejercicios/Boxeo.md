@@ -15,3 +15,8 @@ El boxeo es un deporte de contacto que combina ejercicios de resistencia, fuerza
 3. Incorpora ejercicios como jab, cross, uppercut, y hooks, asegurándote de mantener una postura estable.
 4. Realiza descansos de 1 minuto entre rounds.
 5. Termina con un enfriamiento de 5-10 minutos, haciendo estiramientos de hombros, espalda y piernas.
+
+## Consejos
+- Mantén siempre una postura sólida y usa los músculos del core para generar potencia en los golpes.
+- Realiza movimientos rápidos y controlados, evitando golpes excesivos.
+- Trabaja en la coordinación de tus pies y manos para mejorar la agilidad y los reflejos.
