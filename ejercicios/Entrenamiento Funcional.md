@@ -15,3 +15,8 @@ El entrenamiento funcional se enfoca en ejercicios que imitan movimientos cotidi
 3. Realiza 3-4 series de 10-15 repeticiones por ejercicio.
 4. Enfócate en la técnica y control de los movimientos.
 5. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+- Mantén siempre una postura correcta, especialmente al trabajar el core.
+- Varía los ejercicios para trabajar diferentes grupos musculares.
+- Utiliza tu propio peso corporal como resistencia, o añade herramientas como pesas y kettlebells para mayor desafío.
