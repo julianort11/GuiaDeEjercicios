@@ -14,3 +14,8 @@ La natación es un ejercicio cardiovascular de bajo impacto que involucra todo e
 2. Realiza series de nado en diferentes estilos (crol, espalda, braza) durante 20-30 minutos.
 3. Alterna entre intervalos de nado rápido y más lento para mejorar la resistencia.
 4. Termina con un enfriamiento, nadando suavemente o realizando estiramientos en el agua.
+
+## Consejos
+- Mantén una postura adecuada en el agua, con el cuerpo alineado y los movimientos fluidos.
+- Respira de forma controlada, inhalando por la boca y exhalando por la nariz mientras nadas.
+- Varía los estilos de nado para trabajar diferentes grupos musculares.
