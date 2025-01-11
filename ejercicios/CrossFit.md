@@ -8,3 +8,9 @@ El CrossFit es un programa de entrenamiento que combina ejercicios de levantamie
 - Aumenta la potencia y agilidad.
 - Ayuda a quemar calorías y mejorar la composición corporal.
 - Desarrolla habilidades funcionales que se pueden aplicar a la vida diaria.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, que puede incluir saltos, movilidad articular y ejercicios de activación muscular.
+2. Realiza un "WOD" (Workout of the Day), que puede incluir ejercicios como burpees, sentadillas con pesas, sprints, levantamientos de pesas y kettlebells.
+3. El WOD suele durar entre 15-30 minutos, dependiendo de la intensidad y los ejercicios seleccionados.
+4. Termina con un enfriamiento y estiramientos para reducir la tensión muscular.
