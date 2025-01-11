@@ -14,3 +14,8 @@ El ciclismo es un ejercicio cardiovascular que se realiza montando una bicicleta
 2. Realiza 30-60 minutos de ciclismo a un ritmo moderado, asegurándote de mantener una postura adecuada.
 3. Si estás en exteriores, varía el terreno para trabajar diferentes grupos musculares; si estás en una bicicleta estática, ajusta la resistencia.
 4. Termina con un enfriamiento de 5-10 minutos, reduciendo gradualmente la velocidad.
+
+## Consejos
+- Mantén una postura erguida en la bicicleta para evitar tensiones en la espalda.
+- Ajusta la altura del sillín para evitar molestias en las rodillas.
+- Realiza ciclismo de forma regular para mejorar tu resistencia y tonificar los músculos.
