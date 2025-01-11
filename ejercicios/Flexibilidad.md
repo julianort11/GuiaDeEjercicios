@@ -8,3 +8,10 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 - Reduce el riesgo de lesiones.
 - Aumenta la circulación sanguínea.
 - Promueve la relajación muscular.
+
+## Instrucciones
+1. Comienza con un calentamiento ligero de 5-10 minutos (puede ser caminata ligera o estiramientos dinámicos).
+2. Realiza estiramientos estáticos, manteniendo cada posición entre 20-30 segundos. 
+3. Incluye estiramientos para todas las partes del cuerpo: cuello, espalda, piernas, hombros y brazos.
+4. Respira profundamente mientras estiras para aumentar la relajación.
+5. Termina con una breve respiración profunda y relajación.
