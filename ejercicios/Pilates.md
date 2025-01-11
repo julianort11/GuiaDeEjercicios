@@ -15,3 +15,8 @@ El Pilates es un sistema de ejercicios que se enfoca en la tonificación muscula
 3. Mantén el control en cada movimiento, concentrándote en la respiración y en el alineamiento de la columna.
 4. Realiza 3-4 series de 10-15 repeticiones por ejercicio.
 5. Termina con un enfriamiento, estirando suavemente los músculos trabajados.
+
+## Consejos
+- Realiza los ejercicios de manera lenta y controlada, evitando los movimientos bruscos.
+- Mantén siempre la zona abdominal activa durante los ejercicios.
+- Enfócate en una respiración fluida, inhalando por la nariz y exhalando por la boca.
