@@ -14,3 +14,9 @@ El entrenamiento funcional es un tipo de ejercicio que se enfoca en mejorar el r
 1. Comienza con un calentamiento de 5-10 minutos, incluyendo movimientos dinámicos como saltos, giros y estiramientos suaves.
 2. Realiza una serie de ejercicios que imiten los movimientos cotidianos, como levantamientos, empujes, tirones, saltos, flexiones o desplazamientos. Utiliza tu propio peso corporal o equipos como kettlebells, balones medicinales y bandas de resistencia.
 3. Termina con una sesión de estiramientos y respiración para enfriar el cuerpo y mejorar la flexibilidad.
+
+## Consejos
+- Enfócate en la técnica y el control del movimiento más que en la velocidad.
+- Escoge ejercicios que trabajen múltiples grupos musculares al mismo tiempo.
+- Varía los ejercicios para evitar la monotonía y mejorar el rendimiento global.
+- Escucha a tu cuerpo y ajusta la intensidad según tu nivel de fitness.
