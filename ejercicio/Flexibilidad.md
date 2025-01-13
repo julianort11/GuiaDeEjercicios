@@ -9,3 +9,8 @@ Los ejercicios de flexibilidad están diseñados para mejorar la movilidad y ela
 - Alivia la tensión muscular y el estrés.
 - Ayuda en la recuperación post-entrenamiento.
 - Previene lesiones al mantener los músculos y ligamentos más elásticos.
+
+## Instrucciones
+1. Comienza con un calentamiento suave de 5-10 minutos, como caminar o trotar ligeramente para elevar la temperatura corporal.
+2. Realiza estiramientos estáticos o dinámicos. Mantén cada estiramiento entre 20-30 segundos sin rebotes. Ejemplos incluyen estiramientos de piernas, espalda, cuello y hombros.
+3. Termina con estiramientos más suaves y respiración profunda para relajarte.
