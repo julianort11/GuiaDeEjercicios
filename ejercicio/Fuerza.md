@@ -9,3 +9,8 @@ Los ejercicios de fuerza se centran en mejorar la capacidad de los músculos par
 - Acelera el metabolismo, ayudando a la quema de grasa.
 - Previene lesiones al fortalecer los músculos estabilizadores.
 - Mejora el rendimiento en otras actividades físicas.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, realizando estiramientos dinámicos y ejercicios de movilidad articular.
+2. Realiza los ejercicios de fuerza, como sentadillas, levantamientos de pesas, press de banca, dominadas o flexiones. Realiza 3-5 series de 5-12 repeticiones por ejercicio.
+3. Termina con un enfriamiento y estiramientos estáticos para reducir la tensión muscular y mejorar la flexibilidad.
