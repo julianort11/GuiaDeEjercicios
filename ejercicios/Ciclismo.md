@@ -10,3 +10,8 @@ El ciclismo es una actividad cardiovascular que se realiza en bicicleta, ya sea 
 - Bajo impacto, lo que reduce el riesgo de lesiones articulares.
 - Mejora el bienestar mental y reduce el estrés.
 
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos a baja intensidad, pedaleando de manera suave para activar los músculos y aumentar la circulación.
+2. Realiza una sesión de ciclismo de 30-60 minutos. Varía la intensidad mediante cambios en la resistencia o alternando entre terrenos llanos y colinas, si es posible.
+3. Termina con un enfriamiento de 5-10 minutos, pedaleando a baja velocidad, seguido de estiramientos para las piernas y la parte baja de la espalda.
+
